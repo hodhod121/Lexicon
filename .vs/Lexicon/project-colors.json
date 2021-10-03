@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "015d2383-2327-418a-b3eb-185e9ac68b75": {
+      "ProjectGuid": "015d2383-2327-418a-b3eb-185e9ac68b75",
+      "DisplayName": "LexiconUnitTest",
+      "ColorIndex": 0
+    },
+    "b6a91809-f38d-421d-8ef8-4a7f35875d7e": {
+      "ProjectGuid": "b6a91809-f38d-421d-8ef8-4a7f35875d7e",
+      "DisplayName": "Lexicon",
+      "ColorIndex": 1
+    },
+    "d6ab7f57-cb16-4547-a9df-48b52adfdd06": {
+      "ProjectGuid": "d6ab7f57-cb16-4547-a9df-48b52adfdd06",
+      "DisplayName": "LexiconMSTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
